@@ -17,12 +17,12 @@
 - ⚔️ AGILE METHODOLOGIES AND ORGANIZATION OR DEATH!!! 🗡
 - 🦇 I do some work as a Batman in my spare time.
 
-<p style = "text-align: center;">
+<div align="center">
 
 <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=sabrinabarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinabarros&layout=compact&langs_count=16&theme=tokyonight" />
 
-</p>
+</div>
 
 ## ✨ Things about me ✨
 
@@ -35,7 +35,7 @@
 
 <hr>
 
-<p style = "text-align: center;">
+<div align="center">
 
 <img src="https://img.icons8.com/nolan/64/git.png"/>
 <img src="https://img.icons8.com/nolan/64/javascript.png"/>
@@ -45,4 +45,4 @@
 <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/nolan/64/true-false.png"/>
 
-</p>
+</div>
