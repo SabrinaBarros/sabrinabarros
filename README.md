@@ -26,7 +26,7 @@
 ## ✨ Things about me ✨
 
 - 👾 I collect **old games**.
-- 🫀 I make **art**, I put so much feeling into it that it becomes personal, so I don't show it to *anyone*.
+- 🎨 I make **art**, I put so much feeling into it that it becomes personal, so I don't show it to *anyone*.
 - 🍫 I love everything **sweet**.
 - 💀 My **favorite** manga is **Berserk**.
 - ❣️ I had a lot of other work before programming, I found myself as a developer and I really love what I do.
