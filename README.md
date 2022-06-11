@@ -1,21 +1,22 @@
-# 👺 I'm Saaz, a brilliant disaster! 👺
+# Hello, Hola, Salve! 👾👾👾
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ubbkgghwke5a7md50khj.jpg)
+<img align="right" height="200" style="margin-left: 25px" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif"/>
 
-<div align="center">
+```diff
+$ whoami
 
-[![linkedin](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/upqg0y3syd7nz3uqdf4m.png)](https://www.linkedin.com/in/saazbarros/)
-[![facebook](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ww4elagp3mkpb6mwbh2d.png)](https://www.facebook.com/profile.php?id=100065856772691)
-[![twitch](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhx717wm2c97rb1e6sgl.png)](https://www.twitch.tv/punkypixy/clips?filter=clips&range=all)
-[![dev.to](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xnymvq0cy17s6p85iwrj.png)](https://dev.to/sabrinabarros)
+@@I'm Saaz@@
 
-</div>
+! Back-end Node.js developer @valleweb;
+! Made in Brazil;
+! Web3 enthusiast;
 
-- 👩🏻‍💻 I am currently a back-end Node.js developer at @valleweb.
-- 💡 Very enthusiastic about software testing and clean code, besides, of course, open source!
-- 🎯 Constantly updating myself and improving my skills.
-- ⚔️ AGILE METHODOLOGIES AND ORGANIZATION OR DEATH!!! 🗡
-- 🦇 I do some work as a Batman in my spare time.
+> i had a lot of other work before programming
+> I found myself as a developer
+> and I really love what I do;
+
+< TEST, DOCS AND CLEAN CODE OR DEATH!!!;
+```
 
 <div align="center">
 
