@@ -16,6 +16,8 @@ $ whoami
 > Retro game collector
 > Zelda fan
 > I love the cold weather (even though I live in a tropical country haha)
+
+< Feel free to contact me if you want! ▼
 ```
 
 <hr>
