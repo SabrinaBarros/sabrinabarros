@@ -1,43 +1,24 @@
-# Hello, Hola, Salve! 👾👾👾
+# Hello, Hola, Olá! 👋👩🏻‍💻💜
 
 <img align="left" width="400" style="margin-left: 25px" src="https://user-images.githubusercontent.com/78176435/173198155-c2b15450-afa2-4a66-844d-2abf25185f4a.gif"/>
 
 ```diff
 $ whoami
 
-@@I'm Saaz@@
+@@Hello world, I'm Sabrina@@
 
-! Back-end Node.js developer @valleweb;
-! Made in Brazil;
+! Back-end Node.js developer for 3 years;
+! Currently Front-end developer in training;
+! From São Paulo - Brazil;
 ! TDD lover ♥;
 
-> i had a lot of other work before programming
-> i found myself as a developer
-> and I really love what i do;
-
-< TEST, DOCS AND CLEAN CODE OR DEATH!!!;
+> Fun Facts:
+> Retro game collector
+> Zelda fan
+> I love the cold weather (even though I live in a tropical country haha)
 ```
 
 <hr>
-
-<div align="center">
-
-<img src="https://img.icons8.com/nolan/64/git.png"/>
-<img src="https://img.icons8.com/nolan/64/javascript.png"/>
-<img src="https://img.icons8.com/nolan/64/api-settings.png"/>
-<img src="https://img.icons8.com/nolan/64/markdown.png"/>
-<img src="https://img.icons8.com/nolan/64/linux--v2.png"/>
-<img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/nolan/64/true-false.png"/>
-<img src="https://img.icons8.com/nolan/64/amazon-s3.png"/>
-
-</div>
-
-<div align="center">
-
-<img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=sabrinabarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-</div>
 
 <div align="center">
 
