@@ -20,8 +20,6 @@ $ whoami
 < Feel free to contact me if you want! ▼
 ```
 
-<hr>
-
 <div align="center">
 
 [![linkedin](https://user-images.githubusercontent.com/78176435/173202937-008cc248-1a30-49a0-878f-2b0d59aeb0ac.png)](https://www.linkedin.com/in/saazbarros/)
