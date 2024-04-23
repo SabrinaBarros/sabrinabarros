@@ -8,14 +8,14 @@ $ whoami
 @@Hello world, I'm Sabrina@@
 
 ! Back-end Node.js developer for 3 years;
-! Currently Front-end developer in training;
+! Currently Front-end developer;
 ! From São Paulo - Brazil;
 ! TDD lover ♥;
 
 > Fun Facts:
 > Retro game collector
 > Zelda fan
-> I love the cold weather (even though I live in a tropical country haha)
+> Skater
 
 < Feel free to contact me if you want! ▼
 ```
