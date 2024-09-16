@@ -7,8 +7,7 @@ $ whoami
 
 @@Hello world, I'm Sabrina@@
 
-! Back-end Node.js developer for 3 years;
-! Currently Front-end developer;
+! Front-end developer;
 ! From São Paulo - Brazil;
 ! TDD lover ♥;
 
